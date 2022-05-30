@@ -60,7 +60,6 @@ or <a href="mailto:sakshimishra1907@gmail.com"><b>email</b></a> me.
 <p align="left">
 
 <a href = "linkedin.com/in/sakshi-mishra-ab97b6225"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "@SakshiM98629641"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sak_shi7221/?igshid=YmMyMTA2M2Y="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/SakshiM98629641"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <!-- <a href =""><img src="https://img.icons8.com/cute-clipart/48/000000/discord-logo.png"/> -->
