@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center"><b>  I am Sakshi Mishra, freshman year student at BIT Durg.Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Sakshi Mishra, sophomore at BIT Durg.Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
 
 
 
