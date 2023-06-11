@@ -33,13 +33,20 @@ or <a href="mailto:sakshimishra1907@gmail.com"><b>email</b></a> me.
 
 🔭 I’m currently working on **Skill Enhancement**
     
-🌱 I’m currently learning **java** 
+🌱 I’m currently learning **DSA** 
  
  👩🏻‍🎓 I'm looking for an **Internship** to get hands-on experience.
 
 📫 How to reach me **sakshimishra1907@gmail.com**
 
 ## 👩🏻‍🎓 Experiences
+  **Open Source contributor at GSSOC'23**
+ 
+ **Web Development intern at Bharat intern**
+ 
+  **Python Development intern at CodeClause**
+ 
+  **Completed the Challenge of Hactoberfest'2022**
  
  **Harvard WECode 2022 scholar**
  
